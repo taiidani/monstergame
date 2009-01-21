@@ -1,0 +1,15 @@
+*Abstract*
+The project will be to create a MMOG that is capable of being run on many platforms. The game is based on the concept of 'Masters' controlling 'Monsters' where the Masters are controllable by the player and the Monsters fight for the Masters and give them specific benefits.
+
+*Masters*
+Masters are the player avatars in the game world. They are able to wield weapons and cast spells, but the main focus of their offensive and defensive power is the Monsters that they control.
+
+*Monsters*
+Monsters are the soldiers in the game. They fight each other according to what the Masters tell them. There are multiple types of Monsters and have a broad range of sizes. Monsters will also retroactively give status boosts to the Masters controlling them. The different types of Monsters will be analogous to elements; they will have defined strengths and weaknesses that play off of each other, forcing the Master to apply strategy in their Monster choice.
+
+*Leveling*
+Levels are determined through a numbering system starting at 1 and increasing to the current level cap.
+Masters are capable of leveling up by battling in the field. As Masters level up, the amount of Monsters they are able to control increases. This amount is specific to the size of the Monster. For example, a Level 2 Master may be able to control 2 smaller Monsters or 1 medium Monster (this for demonstrative purposes only and does not indicate a proposed amount scheme).
+
+*Customization*
+Masters can be customized using a talent tree. These talents will specialize them in certain ways such as Monster Control, Spell Power, etc. The talents are determined by level, so starting players will always have Masters that are completely equal to other starting players.
