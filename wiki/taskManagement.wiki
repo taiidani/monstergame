@@ -1,6 +1,7 @@
 #labels Phase-Design
-=Tone= (dark diablo --> goofy dofus)
+=Tone=
 
+  * (dark diablo --> goofy dofus)
 
 =Monsters=
 
