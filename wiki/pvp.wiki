@@ -3,17 +3,15 @@
 = Introduction =
 
 This section lists the details of PvP.
-Who can declare it
-Who you can declare PvP against
-Where you can declare PvP
-What are the results of PvP
-What do guilds have to do with anything
+  * Who can declare it
+  * Who you can declare PvP against
+  * Where you can declare PvP
+  * What are the results of PvP
+  * What do guilds have to do with anything
 
 =PvP?=
 PvP or player versus player is one player attacking another player.  
-
 These can either be friendly duels, or fights with the intent to defeat and kill.
-
 The choices/possibilities of people to attack largely depend on your guild.
 
 =The guild system=
