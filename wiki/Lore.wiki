@@ -5,16 +5,25 @@ This is the lore of our world.  It encompasses how the world and creatures in it
 The personalities explored here are those of the Gods and major characters including but not limited to the appointed demigods.  
 
 
-= Details =
+== The hierarchy ==
 
 The world itself is occupied by two dominant forces
-  * The sentient, dominant species of elves, which have several varying ethnicites
+  * The sentient, dominant species of elves, which have several varying races
   * Creatures who derive their power from the natural world
 
-On a plane of the world exists the world of Gods.  Currently, their are only two known Gods to the elves.
+On a plane of the world exists the world of Gods.  Currently, their are only two known Gods to the elves, which will be referred to as the *major Gods*
   * The mother of war, who advocates force
   * The father of peace, who believes in the power of coexistence 
 
-They share an ancient grudge because of their opposing ideals.  Despite this truth, the share a love for existence, and actually gave birth to the race of elves to reign over the planet.  ecause they are both equally responsible for the creation of elf, both are worshiped.
+They share an ancient grudge because of their opposing ideals.  Despite this truth, the two share a love for existence and the world itself, and actually gave birth to the race of elves to reign over the planet.  
 
-Elves are the decedents of Gods, their literal children.  Because of this bond, they naturally hold the power to dominate the creatures of this world.  
+As time passed, the single race of elf spread and changed into four distinct groups
+  * To be decided
+
+Elves are the decedents of Gods, their literal children.  Because of this bond, they naturally hold the power to dominate the creatures of the world.  Because both of the major Gods are equally responsible for the creation of elf, both are worshiped.  It is common practice however, to follow the path of one.  As a reward for your loyalty, each major God grants unique elemental spells.  This choice *is mandatory* for all elves.  
+
+Because elves are related to the Gods, they can receive further gifts from the Gods.  They can be given the gift of eternal life, where they can live forever, provided that they stay loyal and are not killed.  To be granted this gift is a form of recognition, and raises that elf to a higher status, that of a *demigod*.
+
+Demigods serve as the presence of the major Gods on this plane of existence.  This is why the worship and pledging of loyalty to these figures is also common, *but not mandatory*.  The demigods also offer a gift in return for your loyalty.  This gift reflects the demigod's nature and personality more than their belief.  
+
+It was agreed by the major Gods that they may bestow the gift of immortal life to three followers each.  This means that the word can only have six immortals anointed by the major Gods at any one time.
