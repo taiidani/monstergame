@@ -5,7 +5,7 @@ This is the lore of our world.  It encompasses how the world and creatures in it
 The personalities explored here are those of the Gods and major characters including but not limited to the appointed demigods.  
 
 
-== The hierarchy ==
+== The general order ==
 
 The world itself is occupied by two dominant forces
   * The sentient, dominant species of elves, which have several varying races
@@ -27,3 +27,10 @@ Because elves are related to the Gods, they can receive further gifts from the G
 Demigods serve as the presence of the major Gods on this plane of existence.  This is why the worship and pledging of loyalty to these figures is also common, *but not mandatory*.  The demigods also offer a gift in return for your loyalty.  This gift reflects the demigod's nature and personality more than their belief.  
 
 It was agreed by the major Gods that they may bestow the gift of immortal life to no more than three followers each.  This means that the word can only have six immortals anointed by the major Gods at any one time.
+
+===The hierarchy laid out===
+
+  *Major Gods
+  *Demigods
+  *Elf
+  *Beast
