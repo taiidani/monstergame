@@ -1,3 +1,5 @@
+#summary A short description of the game for those unfamiliar
+
 *Abstract*
 
 The project will be to create a MMORPG that is capable of being run on many platforms. The game is based on the concept of 'Masters' controlling 'Monsters' where the Masters are controllable by the player and the Monsters fight for the Masters and give them specific benefits.
