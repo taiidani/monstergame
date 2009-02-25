@@ -27,9 +27,11 @@ This means that a player can attack another player at any time, with no warning,
 Players that share the same guild and/or ally can only compete in duels.  
 
 ==The results of PvP==
-After attacking a player aka engaging in PvP, either someone loses or one or both run away from battle.  
+After attacking a player, aka engaging in PvP, either someone loses or one or both run away from battle.  
 
 In the result of a loss, the player dies in the same fashion that they would if they lost to a wild monster/NPC.  They will be forced to revive, and face all the XP/armor/monetary penalties of death.
+
+==The results of a duel==
 
 When a player loses a duel, his monsters and himself are reset to one HP.  Other than a hit to their pride, no long term harm is done.  These are intended to be friendly matches of skill.
 
