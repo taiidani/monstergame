@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary The lore of our game.
 
 = Introduction =
 This is the lore of our world.  It encompasses how the world and creatures in it were created, and explain the natural order.  
