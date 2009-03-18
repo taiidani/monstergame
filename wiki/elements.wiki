@@ -12,6 +12,11 @@
 
   * The column going up to down represents the attacker
   * The row going across shows the element of the creature attacked
+  # S means they are the same, and therefore resisted
+  # X means the attack is resisted
+  # O means the attack is extra effective
+  # N means the attack does normal damage
+  # ? means this slot is under consideration
 
 ==Evaluations:==
 *Fire*
