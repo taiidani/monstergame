@@ -18,6 +18,8 @@
   # N means the attack does normal damage
   # ? means this slot is under consideration
 
+===The neutral element is not effective or resisted by anything===
+
 ==Evaluations:==
 *Fire*
   Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  Fire does not seem to have a truly amazing quality.
