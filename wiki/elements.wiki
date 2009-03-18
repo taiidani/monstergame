@@ -1,0 +1,42 @@
+#summary How elemental attacks hit and are resisted
+
+|| X || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
+|| Fire || S || X || N || O || N || O || N || X ||
+|| Water || O || S || O || X || N || N || N || O ||
+|| Poison || N || N || S || O || N || N || N || X ||
+|| Plant || X || O || X || S || X || N || N || O ||
+|| Wind || O || N || N || X || S || N || N || X ||
+|| Ice || X || N || N || O || N? || S || N || O ||
+|| Electricity || N || O || N || X || ? || N || S || X ||
+|| Earth || O || N || N || N || X || O || O || S ||
+
+  * The column going up to down represents the attacker
+  * The row going across shows the element of the creature attacked
+
+==Evaluations:==
+*Fire*
+  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  Fire does not seem to have a truly amazing quality.
+
+*Water*
+  Effective against 3 types, resisted by 2.  Is weak to 2 types, resists 2.  Only fears electricity and plants, which are not that powerful.  
+
+*Poison*
+  Effective against 1 types, resisted by 2.  Is weak to 1 types, resists 2.  It is not as offensive as the others are, but very universal.  Poison is weak to the very powerful water.
+
+*Plant*
+  Effective against 2 types, resisted by 4.  Is weak to 3 types, resists 4.  It hits water hard as well as earth.  
+
+*Wind*
+  Effective against 1 types, resisted by 3.  Is weak to 0 types, resists 3.  It is not that scary, but makes that up from the fact that it fears nothing.
+
+*Ice*
+  Effective against 2 types, resisted by 1.  Is weak to 2 types, resists 1.  The two types it does fear have many weaknesses, so it great for support/ to be supported.
+
+*Electricity*
+  Effective against 1 types, resisted by 3.  Is weak to 1 types, resists 1.  Electricity only has one fear, earth, and takes down water.  
+
+*Earth*
+  Effective against 3 types, resisted by 2.  Is weak to 3 types, resists 5.  Earth is very versatile, but holds many fears.  
+
+===Conclusion:===
+Fire may need a little help, and wind may need something of a handicap, along with water.  So far, everything makes visual sense, for the most part.  We need to agree on the two questionable areas, being how wind handles ice and electric attacks.  
