@@ -80,6 +80,6 @@ Fire may need a little help, and wind may need something of a handicap, along wi
 
 ==Analysis of Chart B==
 
-  * Earth is the only element to have an amount grater than 0 in *both* columns, making it a very powerful choice for offense and defense.
+  * Earth is the only element to have an amount greater than 0 in *both* columns, making it a very powerful choice for offense and defense.
   * Electricity, on the other hand, has the lowest overall value, resisting only itself and being outclassed heavily in offense.  
   * Wind has the highest resistance value because it has no weakness.
