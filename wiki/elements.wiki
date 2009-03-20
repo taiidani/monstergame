@@ -23,13 +23,13 @@
 
 ==Analysis of Chart A:==
 *Fire*
-  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  Fire does not seem to have a truly amazing quality, except that the same elements he is effective against he is also resistant to, making it a perfect counter for ice and plant types.  
+  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  Fire does not seem to have a truly amazing quality, except that the same elements it is effective against it is also resistant to, making it a perfect counter for ice and plant types.  
 
 *Water*
-  Effective against 3 types, resisted by 2.  Is weak to 2 types, resists 2.  Only fears electricity and plants, which are not that powerful. A solid choice for a creature. 
+  Effective against 3 types, resisted by 2.  Is weak to 2 types, resists 2.  Only fears electricity and plants, which are not that powerful. A very solid type.
 
 *Poison*
-  Effective against 1 types, resisted by 2.  Is weak to 1 types, resists 2.  It is not as offensive as the others are, but very universal.  Poison is weak to the very powerful water.
+  Effective against 1 types, resisted by 2.  Is weak to 1 types, resists 2.  It is not as offensive as the others are, but very universal.  It can go against anything that isn't poison or earth with no concerns. 
 
 *Plant*
   Effective against 2 types, resisted by 4.  Is weak to 3 types, resists 4.  It hits water hard as well as earth.  Plant has unusual resistances, resisting two out of three weaknesses of earth, making it very appealing.
