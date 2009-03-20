@@ -8,6 +8,12 @@ The project will be to create a MMORPG that is capable of being run on many plat
 
 Masters are the player avatars in the game world. They are able to wield weapons and cast spells, but the main focus of their offensive and defensive power is the Monsters that they control.
 
+All playable characters are a race of elf.  So far their are four of them.
+  * A physically large and strong group, with red and brown skin tones.  They are gifted with greater strength.
+  * A tall, lanky group, usually with long hair.  Their skin appears to be made of silver and gold.  They are typically more intelligent.
+  * A short, skinny group, often seen as mischievous.  Their skin is gray, blue, and even purple.  They are the most agile of the elves.
+  * The typical elf, green in color and average in stature.  They are the heartiest of the elves.  
+
 *Monsters*
 
 Monsters are the soldiers in the game. They fight each other according to what the Masters tell them. There are multiple types of Monsters and have a broad range of sizes. Monsters will also retroactively give status boosts to the Masters controlling them. The different types of Monsters will be analogous to elements; they will have defined strengths and weaknesses that play off of each other, forcing the Master to apply strategy in their Monster choice.
