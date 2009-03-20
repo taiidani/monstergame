@@ -32,7 +32,7 @@
   Effective against 1 types, resisted by 2.  Is weak to 1 types, resists 2.  It is not as offensive as the others are, but very universal.  Poison is weak to the very powerful water.
 
 *Plant*
-  Effective against 2 types, resisted by 4.  Is weak to 3 types, resists 4.  It hits water hard as well as earth.  Is unusual resistances, resisting two out of three weaknesses of earth, makes it very appealing.
+  Effective against 2 types, resisted by 4.  Is weak to 3 types, resists 4.  It hits water hard as well as earth.  Plant has unusual resistances, resisting two out of three weaknesses of earth, making it very appealing.
 
 *Wind*
   Effective against 1 types, resisted by 3.  Is weak to 0 types, resists 3.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it fears nothing.
