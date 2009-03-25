@@ -11,10 +11,10 @@
 || Electricity || N || O || N || N || ? || N || N || X ||
 || Earth || O || N || N || N || X || O || O || N ||
 
- - Electricity now neutral to plants (-1R)
- - Wind now neutral to Fire (-1W)
- - Ice new neutral to Fire (-1R)
- - All same-element creatures are now neutral instead of resisting
+ * Electricity now neutral to plants (-1R)
+ * Wind now neutral to Fire (-1W)
+ * Ice new neutral to Fire (-1R)
+ * All same-element creatures are now neutral instead of resisting
 
 
 || *OLD-BORING-BLAH CHART A (Deprecated)* ||
