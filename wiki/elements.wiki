@@ -22,29 +22,31 @@
 
 ==Analysis of Chart A:==
 *Fire*
-  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  Fire does not seem to have a truly amazing quality, except that the same elements it is effective against it is also resistant to, making it a perfect counter for ice and plant types.  
+  Effective against 2 types, resisted by 2.  Is weak to 2 types, resists 2.  Fire is the perfect counter to plants, and also takes out ice effectively.  Fire couples well with earth and water.
 
 *Water*
-  Effective against 3 types, resisted by 2.  Is weak to 2 types, resists 2.  Only fears electricity and plants, which are not that powerful. A very solid type.
+  Effective against 3 types, resisted by 1.  Is weak to 2 types, resists 1.  Fears electricity and plants, and only has one resistance.  Its merit as an attacker is greater than its ability to defend.
 
 *Poison*
-  Effective against 1 types, resisted by 2.  Is weak to 1 types, resists 2.  It is not as offensive as the others are, but very universal.  It can go against anything that isn't poison or earth with no concerns. 
+  Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 1.  It is not as offensive as the others are, but very universal.  Poison can enter a fight, and once earth and water are gone, it has nothing to fear.  A solid attacking type because it so little resists it.  
 
 *Plant*
-  Effective against 2 types, resisted by 4.  Is weak to 3 types, resists 4.  It hits water hard as well as earth.  Plant has unusual resistances, resisting two out of three weaknesses of earth, making it very appealing.
+  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter to the defensive elements.
 
 *Wind*
-  Effective against 1 types, resisted by 3.  Is weak to 0 types, resists 3.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it fears nothing.
+  Effective against 0 types, resisted by 3.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
 
 *Ice*
-  Effective against 2 types, resisted by 2.  Is weak to 2 types, resists 1.  Ice is effective against both of the most defensive elements, earth and plant, but also fears earth at the same time.  Its almost non-existent resistance list is also a problem.
+  Effective against 2 types, resisted by 0.  Is weak to 2 types, resists 0.  Ice is effective against both of the most defensive elements, earth and plant, but also fears earth at the same time.  Ice is a great element to attack with, but a lackluster defender.  It can hurt one of its weaknesses though, so it is not without hope.
 
 *Electricity*
-  Effective against 1 types, resisted by 3.  Is weak to 1 types, resists 1.  Electricity only has one fear, earth, and takes down water.  Its large list of elements that resist it is a problem, along with its mediocre defenses.
+  Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 0.  Electricity only has one fear, earth, and takes down water.  Electricity hits everything pretty well, except for its one weakness.  
 
 *Earth*
-  Effective against 3 types, resisted by 2.  Is weak to 3 types, resists 5.  Earth is very versatile, but holds many fears.  The odds are on earths side that it will resist the attack, but it is weak to water, which is another strong contender.
+  Effective against 3 types, resisted by 1.  Is weak to 3 types, resists 4.  Earth is very versatile, but holds many fears.  The odds are on earths side that it will resist the attack, but it is weak to water, which is another strong contender.
 
+
+|| NOT UPDATED FROM HERE ON DOWN ||
 || Chart A1 || Effective || Resisted || Resists || Vulnerable ||
 || Fire || 2 || 3 || 3 || 3 ||
 || Water || 3 || 2 || 2 || 2 ||
