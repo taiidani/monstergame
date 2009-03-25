@@ -1,5 +1,18 @@
 #summary How elemental attacks hit and are resisted
 
+NEW-FANCY-SEXY CHART A
+|| Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
+|| Fire || S || X || N || O || N || O || N || X ||
+|| Water || O || S || O || X || N || N || N || O ||
+|| Poison || N || N || S || O || N || N || N || X ||
+|| Plant || X || O || X || S || X || N || N || O ||
+|| Wind || N || N || N || X || S || N || N || X ||
+|| Ice || N || N || N || O || N? || S || N || O ||
+|| Electricity || N || O || N || N || ? || N || S || X ||
+|| Earth || O || N || N || N || X || O || O || S ||
+
+
+OLD-BORING-BLAH CHART A (Deprecated)
 || Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
 || Fire || S || X || N || O || N || O || N || X ||
 || Water || O || S || O || X || N || N || N || O ||
