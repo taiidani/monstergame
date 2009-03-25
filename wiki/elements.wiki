@@ -2,14 +2,19 @@
 
 || *NEW-FANCY-SEXY CHART A* ||
 || Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
-|| Fire || S || X || N || O || N || O || N || X ||
-|| Water || O || S || O || X || N || N || N || O ||
-|| Poison || N || N || S || O || N || N || N || X ||
-|| Plant || X || O || X || S || X || N || N || O ||
-|| Wind || N || N || N || X || S || N || N || X ||
-|| Ice || N || N || N || O || N? || S || N || O ||
-|| Electricity || N || O || N || N || ? || N || S || X ||
-|| Earth || O || N || N || N || X || O || O || S ||
+|| Fire || N || X || N || O || N || O || N || X ||
+|| Water || O || N || O || X || N || N || N || O ||
+|| Poison || N || N || N || O || N || N || N || X ||
+|| Plant || X || O || X || N || X || N || N || O ||
+|| Wind || N || N || N || X || N || N || N || X ||
+|| Ice || N || N || N || O || N? || N || N || O ||
+|| Electricity || N || O || N || N || ? || N || N || X ||
+|| Earth || O || N || N || N || X || O || O || N ||
+
+ - Electricity now neutral to plants (-1R)
+ - Wind now neutral to Fire (-1W)
+ - Ice new neutral to Fire (-1R)
+ - All same-element creatures are now neutral instead of resisting
 
 
 || *OLD-BORING-BLAH CHART A (Deprecated)* ||
