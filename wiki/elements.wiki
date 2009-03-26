@@ -48,20 +48,30 @@
 
 || NOT UPDATED FROM HERE ON DOWN ||
 || Chart A1 || Effective || Resisted || Resists || Vulnerable ||
-|| Fire || 2 || 3 || 3 || 3 ||
-|| Water || 3 || 2 || 2 || 2 ||
-|| Poison || 1 || 2 || 2 || 1 ||
-|| Plant || 2 || 4 || 4 || 3 ||
-|| Wind || 1 || 3 || 3 || 0 ||
-|| Ice || 2 || 2 || 1 || 2 ||
-|| Electricity || 1 || 3 || 1 || 1 ||
-|| Earth || 3 || 2 || 5 || 3 ||
+|| Fire || 2 || 2 || 2 || 2 ||
+|| Water || 3 || 1 || 1 || 2 ||
+|| Poison || 1 || 1 || 1 || 1 ||
+|| Plant || 2 || 3 || 3 || 3 ||
+|| Wind || 0 || 3 || 2 || 0 ||
+|| Ice || 2 || 0 || 0 || 2 ||
+|| Electricity || 1 || 1 || 0 || 1 ||
+|| Earth || 3 || 1 || 4 || 3 ||
 
 ===Conclusion:===
-Fire may need a little help, and wind may need something of a handicap, along with water.  So far, everything makes visual sense, for the most part.  We need to agree on the two questionable areas, being how wind handles ice and electric attacks.  
-
+Everything seems balanced at this point.  I am not so sure why wind is resisted by plants anymore, as I cannot think of any previous time in games where plants actually resist wind.  I say this realizing I probably was in favor of plants resisting wind.  
+I do feel like things are finally balanced though.
 ----
   The following chart shows the usefulness of each element offensively, defensively, and overall.
+
+|| New B || Offense Value || Defense Value || Overall ||
+|| Fire || 0 || 0 || 0 ||
+|| Water || 2 || -1 || +1 ||
+|| Poison || 0 || 0 || 0 ||
+|| Plant || -1 || 0 || -1 ||
+|| Wind || -3 || 2 || -1 ||
+|| Ice || 2 || -2 || 0 ||
+|| Electricity || 0 || 0 || -1 ||
+|| Earth || 2 || 1 || +3 ||
 
 || Chart B || Offense Value || Defense Value || Overall ||
 || Fire || -1 || 0 || -1 ||
