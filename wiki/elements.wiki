@@ -2,7 +2,7 @@
 
 || *Element Chart* ||
 || Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
-|| Fire || N || X || N || O || N || O || N || X ||
+|| Fire ||   || X || N || O || N || O || N || X ||
 || Water || O || N || O || X || N || N || N || O ||
 || Poison || N || N || N || O || N || N || N || X ||
 || Plant || X || O || X || N || X || N || N || O ||
