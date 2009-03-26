@@ -45,8 +45,6 @@
 *Earth*
   Effective against 3 types, resisted by 1.  Is weak to 3 types, resists 4.  Earth is very versatile, but holds many fears.  The odds are on earths side that it will resist the attack, but it is weak to water, which is another strong contender.
 
-
-|| NOT UPDATED FROM HERE ON DOWN ||
 || Chart A1 || Effective || Resisted || Resists || Vulnerable ||
 || Fire || 2 || 2 || 2 || 2 ||
 || Water || 3 || 1 || 1 || 2 ||
