@@ -30,7 +30,7 @@
   Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 1.  It is not as offensive as the others are, but very universal.  Poison can enter a fight, and once earth and water are gone, it has nothing to fear.  A solid attacking type because it so little resists it.  
 
 *Plant*
-  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 3.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter to the defensive elements.
+  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 2.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter to the defensive elements.
 
 *Wind*
   Effective against 0 types, resisted by 3.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
@@ -48,7 +48,7 @@
 || Fire || 2 || 2 || 2 || 2 ||
 || Water || 3 || 1 || 1 || 2 ||
 || Poison || 1 || 1 || 1 || 1 ||
-|| Plant || 2 || 3 || 3 || 3 ||
+|| Plant || 2 || 3 || 2 || 3 ||
 || Wind || 0 || 3 || 2 || 0 ||
 || Ice || 2 || 0 || 0 || 2 ||
 || Electricity || 1 || 1 || 0 || 1 ||
@@ -56,7 +56,7 @@
 
 ===Conclusion:===
 Everything seems balanced at this point.  I am not so sure why wind is resisted by plants anymore, as I cannot think of any previous time in games where plants actually resist wind.  I say this realizing I probably was in favor of plants resisting wind.  
-I do feel like things are finally balanced though.
+I do feel like things are finally closer to being balanced.
 ----
   The following chart shows the usefulness of each element offensively, defensively, and overall.
 
@@ -64,7 +64,7 @@ I do feel like things are finally balanced though.
 || Fire || 0 || 0 || 0 ||
 || Water || 2 || -1 || +1 ||
 || Poison || 0 || 0 || 0 ||
-|| Plant || -1 || 0 || -1 ||
+|| Plant || -1 || -1 || -2 ||
 || Wind || -3 || 2 || -1 ||
 || Ice || 2 || -2 || 0 ||
 || Electricity || 0 || 0 || -1 ||
@@ -81,3 +81,4 @@ I do feel like things are finally balanced though.
   * Earth is the only element to have an amount greater than 0 in *both* columns, making it a very powerful choice for offense and defense.
   * Water is the only other element that winds up with a positive, but it and earth both fear many things, giving them something to worry about.  
   * Wind has the highest resistance value because it has no weakness still, but the element feels just about right.
+  * Plants seemed to have taken a hit this time, but plants have always taken that seat in games.
