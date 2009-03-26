@@ -30,7 +30,7 @@
   Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 1.  It is not as offensive as the others are, but very universal.  Poison can enter a fight, and once earth and water are gone, it has nothing to fear.  A solid attacking type because it so little resists it.  
 
 *Plant*
-  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 2.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter to the defensive elements.
+  Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 2.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter for two of the elements that will probably be overused.  Plants hurt the very solid water and earth types, and that is its greatest strength.
 
 *Wind*
   Effective against 0 types, resisted by 3.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
