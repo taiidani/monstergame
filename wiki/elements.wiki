@@ -2,14 +2,14 @@
 
 || *Element Chart* ||
 || Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
-|| Fire ||   || X || N || O || N || O || N || X ||
-|| Water || O || N || O || X || N || N || N || O ||
-|| Poison || N || N || N || O || N || N || N || X ||
-|| Plant || X || O || X || N || X || N || N || O ||
-|| Wind || N || N || N || X || N || N || N || X ||
-|| Ice || N || N || N || O || N || N || N || O ||
-|| Electricity || N || O || N || N || N || N || N || X ||
-|| Earth || O || N || N || N || X || O || O || N ||
+|| Fire ||   || X ||   || O ||   || O ||   || X ||
+|| Water || O ||   || O || X ||   ||   ||   || O ||
+|| Poison ||   ||   ||   || O ||   ||   ||   || X ||
+|| Plant || X || O || X ||   || X ||   ||   || O ||
+|| Wind ||   ||   ||   || X ||   ||   ||   || X ||
+|| Ice ||   ||   ||   || O ||   ||   ||   || O ||
+|| Electricity ||   || O ||   ||   ||   ||   ||   || X ||
+|| Earth || O ||   ||   ||   || X || O || O ||   ||
 
   * The column going up to down represents the attacker
   * The row going across shows the element of the creature attacked
