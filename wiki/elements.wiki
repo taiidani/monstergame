@@ -73,24 +73,14 @@ I do feel like things are finally balanced though.
 || Electricity || 0 || 0 || -1 ||
 || Earth || 2 || 1 || +3 ||
 
-|| Chart B || Offense Value || Defense Value || Overall ||
-|| Fire || -1 || 0 || -1 ||
-|| Water || 1 || 0 || +1 ||
-|| Poison || -1 || 1 || 0 ||
-|| Plant || -2 || 1 || -1 ||
-|| Wind || -2 || 3 || +1 ||
-|| Ice || 0 || -1 || -1 ||
-|| Electricity || -2 || 0 || -2 ||
-|| Earth || 1 || 2 || +3 ||
-
   * Offense Value is determined by subtracting the number of elements that resist the element from the number of elements that are weak to that element. 
-  Example would be water is effective against *3* types, and resisted by *2*, giving you a remainder of *+1*.
+  Example would be water is effective against *3* types, and resisted by *1*, giving you a remainder of *+2*.
   * Defense Value is determined by subtracting the number of elements that type is vulnerable to from the number of elements it resists.
-  Example would be water resists *2* elements, but is weak to *2*, giving you a remainder of *0*.
+  Example would be water resists *1* elements, but is weak to *2*, giving you a remainder of *-1*.
   * Overall is determined by adding Offensive Value and Defensive Value together.
 
 ==Analysis of Chart B==
 
   * Earth is the only element to have an amount greater than 0 in *both* columns, making it a very powerful choice for offense and defense.
-  * Electricity, on the other hand, has the lowest overall value, resisting only itself and being outclassed heavily in offense.  
-  * Wind has the highest resistance value because it has no weakness.
+  * Water is the only other element that winds up with a positive, but it and earth both fear many things, giving them something to worry about.  
+  * Wind has the highest resistance value because it has no weakness still, but the element feels just about right.
