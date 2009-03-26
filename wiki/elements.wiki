@@ -1,7 +1,7 @@
 #summary How elemental attacks hit and are resisted
 
 || *Element Chart* ||
-|| Chart A || Fire || Water || Poison || Plant || Wind || Ice || Electricity || Earth ||
+|| Chart A || Fir || Wat || Poi || Pla || Win || Ice || Ele || Ear ||
 || Fire ||   || X ||   || O ||   || O ||   || X ||
 || Water || O ||   || O || X ||   ||   ||   || O ||
 || Poison ||   ||   ||   || O ||   ||   ||   || X ||
