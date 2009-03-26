@@ -15,7 +15,6 @@
   * The row going across shows the element of the creature attacked
   # X means the attack is resisted
   # O means the attack is extra effective
-  # N means the attack does normal damage
 
 ===The neutral element is not effective or resisted by anything===
   * This may be put under consideration
