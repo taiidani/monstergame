@@ -83,6 +83,8 @@ I do feel like things are finally closer to being balanced.
   * Wind has the highest resistance value because it has no weakness still, but the element feels just about right.
   * Plants seemed to have taken a hit this time, but plants have always taken that seat in games.
 
+----
+
   I was messing around with numbers and I figured out a new chart that shows something we did not considered before: the solid advantage and disadvantage of resisting the element you are super effective against.
   * Example would be water is effective against fire, and resistant to fire at the same time.  
   I call this instance the pwn/noob factor.
