@@ -82,3 +82,22 @@ I do feel like things are finally closer to being balanced.
   * Water is the only other element that winds up with a positive, but it and earth both fear many things, giving them something to worry about.  
   * Wind has the highest resistance value because it has no weakness still, but the element feels just about right.
   * Plants seemed to have taken a hit this time, but plants have always taken that seat in games.
+
+  I was messing around with numbers and I figured out a new chart that shows something we did not considered before: the solid advantage and disadvantage of resisting the element you are super effective against.
+  * Example would be water is effective against fire, and resistant to fire at the same time.  
+  I call this instance the pwn/noob factor.
+
+|| DTATTM || Pwn || Noob ||
+|| Fire || 1 || 2 ||
+|| Water || 1 || 1 ||
+|| Poison || 1 || 0 ||
+|| Plant || 1 || 2 ||
+|| Wind || 0 || 0 ||
+|| Ice || 0 || 0 ||
+|| Electricity || 0 || 1 ||
+|| Earth || 2 || 0 ||
+
+  * DTATTM David Thinks About This Too Much
+  This means that the elements with no noob points are not at the greatest disadvantage possible, and those with pwn points rule the battlefield when this occurs.  I almost want to say that earth needs something to give it a noob point, but there is a reason that earth is everywhere.
+  The very fact that I cannot for the life of me come up with a perfect system of checks and balances based on two elements speaks very highly of our chart.  I'm still working on three or more elements, but I keep coming up with 2 out 3 of them sharing a weakness.
+  * *THAT IS AWESOME*
