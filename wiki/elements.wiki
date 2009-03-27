@@ -33,7 +33,7 @@
   Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 2.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter for two of the elements that will probably be overused.  Plants hurt the very solid water and earth types, and that is its greatest strength.
 
 *Wind*
-  Effective against 0 types, resisted by 3.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
+  Effective against 0 types, resisted by 2.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
 
 *Ice*
   Effective against 2 types, resisted by 0.  Is weak to 2 types, resists 0.  Ice is effective against both of the most defensive elements, earth and plant, but also fears earth at the same time.  Ice is a great element to attack with, but a lackluster defender.  It can hurt one of its weaknesses though, so it is not without hope.
@@ -49,7 +49,7 @@
 || Water || 3 || 1 || 1 || 2 ||
 || Poison || 1 || 1 || 1 || 1 ||
 || Plant || 2 || 3 || 2 || 3 ||
-|| Wind || 0 || 3 || 2 || 0 ||
+|| Wind || 0 || 2 || 2 || 0 ||
 || Ice || 2 || 0 || 0 || 2 ||
 || Electricity || 1 || 1 || 0 || 1 ||
 || Earth || 3 || 1 || 4 || 3 ||
@@ -65,7 +65,7 @@ I do feel like things are finally closer to being balanced.
 || Water || 2 || -1 || +1 ||
 || Poison || 0 || 0 || 0 ||
 || Plant || -1 || -1 || -2 ||
-|| Wind || -3 || 2 || -1 ||
+|| Wind || -2 || 2 || -0 ||
 || Ice || 2 || -2 || 0 ||
 || Electricity || 0 || 0 || -1 ||
 || Earth || 2 || 1 || +3 ||
