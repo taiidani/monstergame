@@ -1,0 +1,48 @@
+#summary One-The names of attributes, their effect on the character and effect in battle.
+
+= Attributes =
+This page deals with the attributes which determine the raw stats of the creatures and players in game.  These are the stats that raise as levels increase, making fighters more powerful and their attacks stronger.  
+
+==Attribute List==
+* Health *
+
+This stat determines the actual total of hit points a player has.  When this number reaches zero, the player faints/ dies.  
+
+  This is one of two bars seen on the screen, because it is so key to know exactly how much health you have mid-combat.
+
+* Energy *
+
+Because the game utilizes attacks that are both physical and energy based in nature, having separate bars for both kinds of attacks would be visually displeasing and confusing.  Instead, we will have all attacks be drawn from a single pool, know as the energy bar.
+
+The idea behind this is that any kind of attack takes a certain amount of effort on the part of the attacker.  This exertion is universal, so this one bar can be applied to all players and even creatures.  The end result of the attack, as in how much damage is done, is dependent on their strength and special stats.  When the bar is at zero, the player is unable to attack.  Also, if their is not enough energy to start a specific attack, they are unable to cast that attack.
+
+  This amount is the second bar on the screen displayed at all times, because the status of this bar is equally important.  
+
+* Strength *
+
+As this stat increases, the physical damage attacks do is directly increased.  
+
+Physical attacks include but are not limited to:
+  * punches
+  * kicks
+  * tackles
+  * claw swipes
+  * bites
+
+* Special *
+
+As this stat increases, the special, or elemental damage attacks do is directly increased.  
+
+Special attacks include but are not limited to:
+  * beams
+  * cannons
+  * summoned embodiment of elements, like root from the ground, a geyser, or lightning from above.
+  * any object not propelled physically by the caster
+
+* Agility *
+
+As this stat increases, the dodge and critical hit ratings of the player raise as well.
+
+===Conclusion===
+This system is very simple, only four values, but covers many avenues.  
+
