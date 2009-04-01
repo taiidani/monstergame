@@ -1,4 +1,4 @@
-#summary -The names of attributes, their effect on the character and effect in battle.
+#summary The names of attributes, their effect on the character and effect in battle.
 
 = Attributes =
 This page deals with the attributes which determine the raw stats of the creatures and players in game.  These are the stats that raise as levels increase, making fighters more powerful and their attacks stronger.  
