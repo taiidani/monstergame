@@ -22,7 +22,7 @@ When the energy bar is at zero, the player is unable to attack.  Also, if their 
 
 * Strength *
 
-As this stat increases, the physical damage attacks do is directly increased.  
+As this stat increases, the physical damage that attacks do is directly increased.  
 
 Physical attacks include but are not limited to:
   * punches
@@ -33,7 +33,7 @@ Physical attacks include but are not limited to:
 
 * Special *
 
-As this stat increases, the special, or elemental damage attacks do is directly increased.  
+As this stat increases, the special, or elemental damage that attacks do is directly increased.  
 
 Special attacks include but are not limited to:
   * beams
