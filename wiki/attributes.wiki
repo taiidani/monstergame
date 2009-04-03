@@ -22,7 +22,7 @@ When the energy bar is at zero, the player is unable to attack.  Also, if their 
 
 * Strength *
 
-As this stat increases, the physical damage that attacks do is directly increased.  
+As this stat increases, the physical damage that attack does is directly increased.  
 
 Physical attacks include but are not limited to:
   * punches
@@ -33,7 +33,7 @@ Physical attacks include but are not limited to:
 
 * Special *
 
-As this stat increases, the special, or elemental damage that attacks do is directly increased.  
+As this stat increases, the special, or elemental damage that attack does is directly increased.  
 
 Special attacks include but are not limited to:
   * beams
@@ -43,7 +43,7 @@ Special attacks include but are not limited to:
 
 * Agility *
 
-As this stat increases, the dodge and critical hit ratings of the player raise as well.
+As this stat increases, the dodge and critical hit ratings of the player rise as well.
 
 ===Conclusion===
 This system is very simple, only four values, but covers many avenues.  
