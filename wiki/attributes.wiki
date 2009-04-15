@@ -45,5 +45,30 @@ Special attacks include but are not limited to:
 
 As this stat increases, the dodge and critical hit ratings of the player rise as well.
 
+==The difference in monsters and elves stats==
+
+All stats do the same thing for both creature and elf, but how they gain and keep stats is very different.
+
+* Elves *
+
+Elves gain their stats as they level in a model predetermined by the creators.  In other words, every elf will be the same at level 10 in regards to their base stats.
+
+* Monsters *
+
+Monsters gain stat points that are allocated by either the game or the player controlling it if there is one.  
+
+A level 1 monster raised by a master will have its points gained while leveling allocated by their master.
+
+A level 30 monster in the wild will have its point allocated by the game.  If that same monster is then caught, all points from future levels will be allocated by their master.
+
+This means that monsters raised from "birth" will have an advantage in comparison to monsters caught at a very high level.  For this system to work, there will need to be a breeding job available so that every monster can be raised from level 1.  This also allows replay to be both necessary and fun.
+
+* Stat bonus *
+
+5% of each monster's stat will be granted as a bonus to the master.  If that monster is defeated or killed, the master loses that bonus.  This gives an advantage and disadvantage to whatever team number strategy you have.  
+  
+  * A team with many creatures will stats faster, but not so dramatically.  
+  * A team comprised of just one or two big monsters will leave the master very weak after just one creature is lost.  This strategy is also hindered because of weaknesses and resistances granted by elements.
+
 ===Conclusion===
 This system is very simple, only four values, but covers many avenues.  
