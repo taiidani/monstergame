@@ -10,9 +10,13 @@ As the development process continues, this section is sure to evolve.
 = Vocabulary =
 
 
-  * Elf
+  * Channeled ability
 
-The dominant species of the world and the only playable character.  There are currently four different races of elves in the game.
+The greater the amount of elemental points an elf's team has, the more channeled abilities an elf has.  
+
+  * Elemental points
+
+One of two values that monsters are assigned other than those that fall under stats.  This value shows the amount of elemental energy that will be transferred to the master controlling them.  
 
   * Elements
 
@@ -25,6 +29,12 @@ All creatures in the world belong to one or more of eight basic elements.  These
   # earth
   # electricity
   # poison
+
+Each element is effective and resistant to the other elements, as well as vulnerable and weak.  
+
+  * Elf
+
+The dominant species of the world and the only playable character.  There are currently four different races of elves in the game.
 
   * Monsters
 
@@ -41,3 +51,7 @@ This value is based on the difficulty a master or elf has in controlling a creat
   * Symbiote
 
 A specific type of creature that when used by a master, attaches itself to the master rather than fight in combat directly.  These creatures do not need to be attached to a host to survive, the term symbiote is used for convenience.  These creatures are typically found hiding because when alone they are very vulnerable and very weak.
+
+  * Team
+
+A group of monsters under the control of an elf.  The monsters that make up this team will have the largest impact on how a player fights in the game.
