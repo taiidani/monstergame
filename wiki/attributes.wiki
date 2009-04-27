@@ -67,7 +67,7 @@ This means that monsters raised from "birth" will have an advantage in compariso
 
 5% of each monster's stat will be granted as a bonus to the master.  If that monster is defeated or killed, the master loses that bonus.  This gives an advantage and disadvantage to whatever team number strategy you have.  
   
-  * A team with many creatures will stats faster, but not so dramatically.  
+  * A team with many creatures will lose stats faster, but not so dramatically.  
   * A team comprised of just one or two big monsters will leave the master very weak after just one creature is lost.  This strategy is also hindered because of weaknesses and resistances granted by elements.
 
 ===Conclusion===
