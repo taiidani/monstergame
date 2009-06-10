@@ -56,6 +56,8 @@ This value is based on the difficulty a master or elf has in controlling a creat
 
 A specific type of creature that when used by a master, attaches itself to the master rather than fight in combat directly.  These creatures do not need to be attached to a host to survive, the term symbiote is used for convenience.  These creatures are typically found hiding because when alone they are very vulnerable and very weak.
 
+Due to the complications and difficulty with this concept, symbiotes are being left for a eventual update.   
+
   * Team
 
 A group of monsters under the control of an elf.  The monsters that make up this team will have the largest impact on how a player fights in the game.
