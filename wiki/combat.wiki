@@ -2,10 +2,10 @@
 
 = Introduction =
 
-Add your content here.
+This page lists how teams are managed, how attacks work, how victory is achieved, and the result of player death.
 
 
-= Details =
+= Team size =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
