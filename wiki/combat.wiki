@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page lists how teams are managed, how attacks work, how victory is achieved, and the result of player death.
+This page lists how teams are managed, how attacks work, how victory is achieved, and the result of player death.  This page focuses more on players fighting outside of duels.  For more information on duels, please got to the PvP wiki page.
 
 
 == Team size ==
@@ -12,6 +12,8 @@ Each elf or master has a set amount of star points. An elf can control any type 
 == Attacks ==
 
 All attacks in the game consist of two parts, a physical based, and a element base.
+
+The physical part of spell damage is increased by the caster's strength, and the elemental damage is increased by the caster's special stat. 
 
 To illustrate this, let us look at two very different attacks, *boulder throw* and *flare cannon*.
 
@@ -27,4 +29,33 @@ The spell's damage reads as 5-8 physical, and 25-45 elemental damage.
 
 The spell is a raging pillar of fire, primarily raw energy, with some physical force behind it.  
 
-The physical part of spell damage is increased by the caster's strength, and the elemental damage is increased by the caster's special stat. 
+== Gambits ==
+
+Creatures fight using their gambits.  (see glossary for further detail)
+
+== Death ==
+
+Damage from attacks lower health.  When a creature's or elf's health reaches zero, they die.  
+
+=== Creature death ===
+
+When a creature dies, they are removed from combat.  They can no longer fight or aid in combat.  They also stop providing an elemental bonus to their master.  
+
+They can be revived thorough items or spells.  
+
+=== Elf death ===
+
+When an elf dies, it is up to their creatures to continue the fight, only following their gambits.  
+
+Should the creatures win the fight, the elf will resurrect with 1hp.  
+
+=== Elf and creature death ===
+
+If the elf and all creatures should die, it is counted as a loss.  The player will have to be resurrected.  Once the elf is resurrected, he/she will have to resurrect their creature team.  
+
+It is undetermined if their will be any further repercussions from death in the wild, including but not limited to:
+  * Loss of items
+  * Loss of money
+  * Loss of experience
+  * Breaking/ wearing down of equipment
+  * Creatures running away
