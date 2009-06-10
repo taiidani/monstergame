@@ -13,6 +13,8 @@ Each elf or master has a set amount of star points. An elf can control any type 
 
 All attacks in the game consist of two parts, a physical based, and a element base.
 
+Elemental base damage is subject to the target's elemental resistances and weaknesses.  Physical damage is exempt from this.
+
 The physical part of spell damage is increased by the caster's strength, and the elemental damage is increased by the caster's special stat. 
 
 To illustrate this, let us look at two very different attacks, *boulder throw* and *flare cannon*.
