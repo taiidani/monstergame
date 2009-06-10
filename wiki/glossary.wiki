@@ -36,6 +36,10 @@ Each element is effective and resistant to the other elements, as well as vulner
 
 The dominant species of the world and the only playable character.  There are currently four different races of elves in the game.
 
+  * Gambit
+
+Creatures follow a list of commands determined by their controller/ elf.  If the first item on the list is not met, they move to the next item.  These individual items are called gambits.
+
   * Monsters
 
 AKA- creatures.  These are caught and trained by elves to fight for battle, glory and treasure.  There are many types of monsters, and they are all bound to elements.  Monsters typically fight on the field as independent entities, except in certain cases, see SYMBIOTE.
