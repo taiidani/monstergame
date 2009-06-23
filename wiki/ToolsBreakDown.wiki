@@ -141,3 +141,36 @@ Open Dynamics Engine
 Tokamak
 PhysX
 Particle Universe
+
+----
+still to go:
+Soun/Movie
+DUMB
+Audiere
+MikMod
+OpenAL
+SDL_mixer
+HawkVoice
+ffmpeg
+
+Game
+Delta 3D
+Panda 3D
+Monster Engine
+Yake 0.3.0
+Europa Engine
+
+Game Libraries
+OpenGL
+DirectX
+FEAR
+AntTweakBar
+Guichan
+Navi
+LibUFO
+SDL
+
+Networking
+WorldForge
+OpenNel
+HawkNL
