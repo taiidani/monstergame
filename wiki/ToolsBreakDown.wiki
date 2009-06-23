@@ -3,9 +3,9 @@
 = Introduction =
 <p>This article addresses the different tools required to develop the final product. A procedure for testing each tool will come later. The goal is to find and agree upon a tool-set for developing the game.</p>
 
-= Overview of the pipeline =
 
-Each of the tools listed in this section have already been determined where they exist in the game-development pipeline by 3D World. The tools are introduced by module category, or which part of the pipeline they belong to. Associations to other modules in the pipeline are identified in the subheading of each module.
+<p>= Overview of the pipeline =</p>
+<p>Each of the tools listed in this section have already been determined where they exist in the game-development pipeline by 3D World. The tools are introduced by module category, or which part of the pipeline they belong to. Associations to other modules in the pipeline are identified in the subheading of each module.</p>
 
 
 *2D*
