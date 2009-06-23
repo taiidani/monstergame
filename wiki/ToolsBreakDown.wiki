@@ -7,6 +7,9 @@ This article addresses the different tools required to develop the final product
 
 = Overview of the pipeline =
 
+Each of the tools listed in this section have already been determined where they exist in the game-development pipeline by 3D World. The tools are introduced by module category, or which part of the pipeline they belong to. Associations to other modules in the pipeline are identified in the subheading of each module.
+
+
 *2D*
 ||Tools for concept art and generating tiled textures and normal maps||Shares resources with modelling/animation and development||
 
