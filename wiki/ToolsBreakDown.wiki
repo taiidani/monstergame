@@ -28,8 +28,7 @@ Tools for concept art and generating tiled textures and normal maps. Contributes
 <br />
 
 ===Modelling/animation===
-||Tools for in-game and cinematic model creation and animatino||Contributes to Rendering and Development||
-
+Tools for in-game and cinematic model creation and animatino. Contributes to Rendering and Development
 
 ||Name || Details || URL ||
 ||Blender ||Highly regarded open-source 3D application. Includes specific games functionality||www.blender.org||
@@ -45,7 +44,7 @@ Tools for concept art and generating tiled textures and normal maps. Contributes
 <br />
 
 ===Rendering===
-||Tools for pre-rendered cinematics, trailers and promotional material||Contributes to Development||
+Tools for pre-rendered cinematics, trailers and promotional material. Contributes to Development
 
 ||Name || Details || URL ||
 ||Aqsis ||!RenderMan-compliant renderer. Mainly GPL-licenced, with parts under LGPL||http://aqsis.org||
@@ -53,3 +52,20 @@ Tools for concept art and generating tiled textures and normal maps. Contributes
 ||POV-Ray ||Free, modifiable raytracing program for Windows, Linux, and Mac OS X||www.provray.org||
 ||!YafRay ||Powerful open-source (LGPL) raytracer, with strong _Blender_ support||www.yafray.org||
 ||!DrQueue ||Open-source distributed render-fram manager, as used by ILM||http://drqueu.org/cwebsite||
+
+
+<br />
+<br />
+
+===Development===
+Open-source development environments, tools, and libraries. Contributes to the final project.
+
+||Name || Details || URL ||
+||Anjuta ||Open-source c/c++ IDE, including project management and debugger||http://anjuta.sourceforge.net/||
+||Eclipse ||Primarily Java-based development environment||www.eclipse.org||
+||KDevelop ||Free development environment for UNIX-like OSes. No built-in compiler||www.kdevelop.org||
+||MonoDevelop ||Popular fork of SharpDevelop, itself a free IDE alternative to Visual Studio||www.monodevelop.com||
+||Turbo C++ Explorer ||An activation key is required, but the compiler and IDE is free to use||www.turboexplorer.com||
+||Visual Studio Express Editions ||A range of free Microsoft IDEs, including those for C+++ and C#||www.microsoft.com/express||
+||Nocturnal ||Insomniac Games' free collection of common helper utilites for PS3||http://nocturnal.insomniacgames.com||
+||XNA Game Studio ||Framework and collection of libraries for game creation. Free for Windows||http://creators.xna.com/||
