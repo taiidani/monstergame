@@ -136,11 +136,12 @@ Range of free dynamics, collisions and particle tools.
 
 ||Name || Details || URL ||
 ||Havok Complete|| Now free for non-commercial use on PC; Intel sponsors use in approved commercial projects||www.havok.com||
-Bullet
-Open Dynamics Engine
-Tokamak
-PhysX
-Particle Universe
+||Bullet ||Acclaimed zlib real-time physics system, created by an ex-_Havok_ coder||www.bulletphysics.com||
+||Open Dynamics Engine ||BSD/LGPL rigid-body dynamics system, used in titles like _S.T.A.L.K.E.R._||www.ode.org||
+||Tokamak ||Basic real-time physics engine, released under the BSD licence||www.tokamakphysics.com||
+||PhysX||Free gaming physics SDK from Nvidia, which makes use of GPU technology||http://tinyurl.com/3kszuy||
+||Particle Universe ||Free particle system plug-in for _Ogre_, available under the LGPL licence||www.fxpression.com||
+
 
 ----
 still to go:
