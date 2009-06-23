@@ -15,7 +15,7 @@ This article addresses the different tools required to develop the final product
 <br />
 
 ===2D===
-_Tools for concept art and generating tiled textures and normal maps. Contributes to modelling/animation and development_
+Tools for concept art and generating tiled textures and normal maps. Contributes to modelling/animation and development
 
 ||Name || Details || URL ||
 ||GIMP ||GNU raster graphics tool used by a number of commercial teams||www.gimp.org||
