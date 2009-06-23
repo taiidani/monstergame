@@ -37,7 +37,7 @@ This article addresses the different tools required to develop the final product
 ||DAZ Studio ||DAZ Productions' free character posing and animation tool||www.daz3d.com/i.x/software/studio||
 ||Wings3D ||Open-source (BSD) subdivision surface-based modeling tool||www.wings3d.com||
 ||MarbleCLAY ||Free japanese poly-modeling tool previously known as Etude3D||http://tinyurl.com/3jeuk||
-||Cal3D ||Skeletal character animatin library originally designed for WorldForge||http://home.gna.org/cal3d||
+||Cal3D ||Skeletal character animatin library originally designed for !WorldForge||http://home.gna.org/cal3d||
 ||QuArK ||Map, model, sound, texture and asses editor, primarily for the idTech engines||http://tinyurl.com/3o6p37||
 ||Deled 3D ||3D modeling and world building tool, offering a free _lite_ edition||www.delgine.com||
 
@@ -51,5 +51,5 @@ This article addresses the different tools required to develop the final product
 ||Aqsis ||!RenderMan-compliant renderer. Mainly GPL-licenced, with parts under LGPL||http://aqsis.org||
 ||Pixie ||Photorealistic !RenderMan-compliant renderer, also distributed under LGPL||www.renderpixie.com||
 ||POV-Ray ||Free, modifiable raytracing program for Windows, Linux, and Mac OS X||www.provray.org||
-||YafRay ||Powerful open-source (LGPL) raytracer, with strong _Blender_ support||www.yafray.org||
-||DrQueue ||Open-source distributed render-fram manager, as used by ILM||http://drqueu.org/cwebsite||
+||!YafRay ||Powerful open-source (LGPL) raytracer, with strong _Blender_ support||www.yafray.org||
+||!DrQueue ||Open-source distributed render-fram manager, as used by ILM||http://drqueu.org/cwebsite||
