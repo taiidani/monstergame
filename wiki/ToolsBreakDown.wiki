@@ -12,7 +12,7 @@ This article addresses the different tools required to develop the final product
 <br />
 <br />
 
-*2D*
+===2D===
 ||Tools for concept art and generating tiled textures and normal maps||Shares resources with modelling/animation and development||
 
 ||Name || Details || URL ||
