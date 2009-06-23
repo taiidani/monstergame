@@ -1,6 +1,6 @@
 #summary Developer tools to review for game development.
-#sidebar ToolsBreakDownNavigation
 
+Table of Contents
 <wiki:toc max_depth="3" />
 
 = Introduction =
@@ -44,7 +44,7 @@ Tools for in-game and cinematic model creation and animatino. Contributes to Ren
 <br />
 <br />
 
-===Rendering===
+==Rendering==
 Tools for pre-rendered cinematics, trailers and promotional material. Contributes to Development
 
 ||Name || Details || URL ||
@@ -58,7 +58,7 @@ Tools for pre-rendered cinematics, trailers and promotional material. Contribute
 <br />
 <br />
 
-===Development===
+==Development==
 Open-source development environments, tools, and libraries. Contributes to the final project.
 
 ||Name || Details || URL ||
@@ -74,7 +74,7 @@ Open-source development environments, tools, and libraries. Contributes to the f
 <br />
 <br />
 
-===Project management===
+==Project management==
 Tools for version control of code. See also:www.opensourcecms.com. Contributes to Development.
 
 ||Name || Details || URL ||
@@ -85,7 +85,7 @@ Tools for version control of code. See also:www.opensourcecms.com. Contributes t
 <br />
 <br />
 
-===Audio===
+==Audio==
 Tools for recording and editing audio assets for games work. Contributes to Development.
 
 ||Name || Details || URL ||
@@ -95,7 +95,7 @@ Tools for recording and editing audio assets for games work. Contributes to Deve
 <br />
 <br />
 
-===Coding===
+==Coding==
 Scripting languages, compilers, interfaces and other coding tools. Contributes to Development.
 
 
