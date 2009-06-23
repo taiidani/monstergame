@@ -48,8 +48,8 @@ This article addresses the different tools required to develop the final product
 ||Tools for pre-rendered cinematics, trailers and promotional material||Contributes to Development||
 
 ||Name || Details || URL ||
-||Aqsis ||`RenderMan-compliant renderer. Mainly GPL-licenced, with parts under LGPL||http://aqsis.org||
-||Pixie ||Photorealistic RenderMan*-compliant renderer, also distributed under LGPL||www.renderpixie.com||
+||Aqsis ||!RenderMan-compliant renderer. Mainly GPL-licenced, with parts under LGPL||http://aqsis.org||
+||Pixie ||Photorealistic !RenderMan-compliant renderer, also distributed under LGPL||www.renderpixie.com||
 ||POV-Ray ||Free, modifiable raytracing program for Windows, Linux, and Mac OS X||www.provray.org||
 ||YafRay ||Powerful open-source (LGPL) raytracer, with strong _Blender_ support||www.yafray.org||
 ||DrQueue ||Open-source distributed render-fram manager, as used by ILM||http://drqueu.org/cwebsite||
