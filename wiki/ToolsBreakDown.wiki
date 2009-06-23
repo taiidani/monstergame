@@ -1,4 +1,5 @@
 #summary Developer tools to review for game development.
+#sidebar Navigation
 
 = Introduction =
 
