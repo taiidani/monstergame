@@ -64,7 +64,7 @@ Open-source development environments, tools, and libraries. Contributes to the f
 ||Anjuta ||Open-source c/c++ IDE, including project management and debugger||http://anjuta.sourceforge.net/||
 ||Eclipse ||Primarily Java-based development environment||www.eclipse.org||
 ||KDevelop ||Free development environment for UNIX-like OSes. No built-in compiler||www.kdevelop.org||
-||MonoDevelop ||Popular fork of SharpDevelop, itself a free IDE alternative to Visual Studio||www.monodevelop.com||
+||!MonoDevelop ||Popular fork of !SharpDevelop, itself a free IDE alternative to Visual Studio||www.monodevelop.com||
 ||Turbo C++ Explorer ||An activation key is required, but the compiler and IDE is free to use||www.turboexplorer.com||
 ||Visual Studio Express Editions ||A range of free Microsoft IDEs, including those for C+++ and C#||www.microsoft.com/express||
 ||Nocturnal ||Insomniac Games' free collection of common helper utilites for PS3||http://nocturnal.insomniacgames.com||
