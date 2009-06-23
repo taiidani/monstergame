@@ -15,7 +15,7 @@ This article addresses the different tools required to develop the final product
 <br />
 
 ===2D===
-||Tools for concept art and generating tiled textures and normal maps||Shares resources with modelling/animation and development||
+||Tools for concept art and generating tiled textures and normal maps||Contributes to modelling/animation and development||
 
 ||Name || Details || URL ||
 ||GIMP ||GNU raster graphics tool used by a number of commercial teams||www.gimp.org||
@@ -23,3 +23,19 @@ This article addresses the different tools required to develop the final product
 ||Inkscape ||A GPL vector graphics editor in the manner of Illutrator or CorelDRAW||www.inkscape.org||
 ||Resynthesizer ||GIMP textur-synthesis plug-in: aids creation of seamlessly tileable textures||http://tinyurl.om/4hsedo||
 ||xNormal ||Free tool for generating normal, AO, displacement and relief maps||www.xnormal.net||
+<br />
+<br />
+
+===Modelling/animation===
+||Tools for in-game and cinematic model creation and animatino||Contributes to Rendering and Development||
+
+
+||Name || Details || URL ||
+||Blender ||Highly regarded open-source 3D application. Includes specific games functionality||www.blender.org||
+||trueSpace 3.2 ||Early version of the 3D modeling and animation tool:now a free download||http://tinyurl.com/46xgaw||
+||DAZ Studio ||DAZ Productions' free character posing and animation tool||www.daz3d.com/i.x/software/studio||
+||Wings3D ||Open-source (BSD) subdivision surface-based modeling tool||www.wings3d.com||
+||MarbleCLAY ||Free japanese poly-modeling tool previously known as Etude3D||http://tinyurl.com/3jeuk||
+||Cal3D ||Skeletal character animatin library originally designed for WorldForge||http://home.gna.org/cal3d||
+||QuArK ||Map, model, sound, texture and asses editor, primarily for the idTech engines||http://tinyurl.com/3o6p37||
+||Deled 3D ||3D modeling and world building tool, offering a free _lite_ edition||www.delgine.com||
