@@ -1,7 +1,6 @@
 #summary Developer tools to review for game development.
-#sidebar Navigation
-* Modules
- * [ToolsBreakDown#2D 2D]
+#sidebar ToolsBreakDownNavigation
+
 
 = Introduction =
 
