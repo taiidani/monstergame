@@ -8,7 +8,7 @@ This article addresses the different tools required to develop the final product
 = Overview of the pipeline =
 
 == 2D ==
-===|| Tools for concept art and generating tiled textures and normal maps || shares resources with modelling/animation and development ||===
+===Tools for concept art and generating tiled textures and normal maps. Shares resources with modelling/animation and development.===
 ||Name || Details || URL ||
 ||GIMP ||GNU raster graphics tool used by a number of commercial teams||www.gimp.org||
 ||Krita ||KOffice painting/image-editing tool||www.koffice.org/krita||
