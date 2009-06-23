@@ -4,3 +4,5 @@
   * [ToolsBreakDown#Modelling/animation Modelling/animation]
   * [ToolsBreakDown#Rendering Rendering]
   * [ToolsBreakDown#Development Development]
+  * [ToolsBreakDown#Project_management Project management]
+  * [ToolsBreakDown#Audio Audio]
