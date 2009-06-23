@@ -108,3 +108,36 @@ Scripting languages, compilers, interfaces and other coding tools. Contributes t
 ||Ruby ||Object-orientated language inspired by _Perl_ and _Smalltalk_||www.ruby-lang.org||
 ||GameMonkey Script ||C-like open-source embedded scripting language for games work||www.somedude.net/gamemonkey||
 ||Pyglet||Programming interface for games development with _Python_||www.pyglet.org||
+
+<br />
+<br />
+
+=Game engines and other resources=
+Instead of reinventing the wheel, there are several engines we could leverage to handle most of the processes required for our game. Below is a list of engines ranging from 3D to Networking.
+<br />
+<br />
+
+==3D engines==
+Ready-made alternatives to the most demanding programming challenge.
+
+||Name || Details || URL ||
+||Ogre ||Hugely popular LPGL engine, as used in several open-source engines and commercial titles||www.oger3d.org||
+||Crystal Space ||_Blender_-friendly LGPL engine. Offers a more complete game dev environment than _Ogre_||www.crystalspace3d.org||
+||idTech 3||Solid technology, previously known as the _Quake 3_ engine; now available under GPL||http://tinyurl.com/4dzsx5||
+||Irrlicht ||Portable cross-platform zlib engine. Uses Direct3D, OpenGL and its own software renderer||http://irrlicht.sourceforge.net||
+||Retribution ||GPL first-person shooter engine with level and model editors, designed for Windows||http://tinyurl.com/3vf2po||
+||Sauerbraten/Cube 2||Single/multiplayer first-person shooter engine, offered under the zlib licence||http://sauerbraten.org||
+
+<br />
+<br />
+
+==Physics==
+Range of free dynamics, collisions and particle tools.
+
+||Name || Details || URL ||
+||Havok Complete|| Now free for non-commercial use on PC; Intel sponsors use in approved commercial projects||www.havok.com||
+Bullet
+Open Dynamics Engine
+Tokamak
+PhysX
+Particle Universe
