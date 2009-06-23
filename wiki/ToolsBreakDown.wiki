@@ -90,3 +90,18 @@ Tools for recording and editing audio assets for games work. Contributes to Deve
 ||Name || Details || URL ||
 ||Ardour ||Free audio workstation for recording, editing and mixing multi-track audio||http://ardour.org/||
 ||Audacity ||Open-source audio recorder and editor for Windows, Mac OS X, and Linux||http://audacity.sourceforge.net||
+
+<br />
+<br />
+
+===Coding===
+Scripting languages, compilers, interfaces and other coding tools. Contributes to Development.
+
+
+||Name || Details || URL ||
+||GCC ||The GNU Compiler collection. Front ends available for C, C++, etc||http://gcc.gnu.org||
+||Python ||Language widely used for libraries, scripting, and so on. Open source||www.python.org||
+||Lua ||Lightweight scripting language. Distributed uner the MIT licence||www.lua.org||
+||Ruby ||Object-orientated language inspired by _Perl_ and _Smalltalk_||www.ruby-lang.org||
+||GameMonkey Script ||C-like open-source embedded scripting language for games work||www.somedude.net/gamemonkey||
+||Pyglet||Programming interface for games development with _Python_||www.pyglet.org||
