@@ -1,0 +1,16 @@
+#Developer tools to review for game development.
+
+= Introduction =
+
+This article addresses the different tools required to develop the final product. A procedure for testing each tool will come later. The goal is to find and agree upon a tool-set for developing the game.
+
+
+= Overview of the pipeline =
+
+|| 2D || Tools for concept art and generating tiled textures and normal maps || shares resources with modelling/animation and development ||
+||Name || Details || URL ||
+||GIMP ||GNU raster graphics tool used by a number of commercial teams||www.gimp.org||
+||Krita ||KOffice painting/image-editing tool||www.koffice.org/krita||
+||Inkscape ||A GPL vector graphics editor in the manner of Illutrator or CorelDRAW||www.inkscape.org||
+||Resynthesizer ||GIMP textur-synthesis plug-in: aids creation of seamlessly tileable textures||http://tinyurl.om/4hsedo||
+||xNormal ||Free tool for generating normal, AO, displacement and relief maps||www.xnormal.net||
