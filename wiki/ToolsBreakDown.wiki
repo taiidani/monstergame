@@ -23,6 +23,7 @@ This article addresses the different tools required to develop the final product
 ||Inkscape ||A GPL vector graphics editor in the manner of Illutrator or CorelDRAW||www.inkscape.org||
 ||Resynthesizer ||GIMP textur-synthesis plug-in: aids creation of seamlessly tileable textures||http://tinyurl.om/4hsedo||
 ||xNormal ||Free tool for generating normal, AO, displacement and relief maps||www.xnormal.net||
+
 <br />
 <br />
 
