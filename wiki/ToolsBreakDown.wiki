@@ -69,3 +69,24 @@ Open-source development environments, tools, and libraries. Contributes to the f
 ||Visual Studio Express Editions ||A range of free Microsoft IDEs, including those for C+++ and C#||www.microsoft.com/express||
 ||Nocturnal ||Insomniac Games' free collection of common helper utilites for PS3||http://nocturnal.insomniacgames.com||
 ||XNA Game Studio ||Framework and collection of libraries for game creation. Free for Windows||http://creators.xna.com/||
+
+<br />
+<br />
+
+===Project management===
+Tools for version control of code. See also:www.opensourcecms.com. Contributes to Development.
+
+||Name || Details || URL ||
+||CVS ||Popular open-source version-control tool for open-source code.||www.nongnu.org/cvs||
+||Subversion ||Version-control system intended as a successor to CVS||http://subversion.tigris.org/||
+||Verse ||Network protocol for real-time data sharing between apps: optimized for 3D||http://verse.blender.org||
+
+<br />
+<br />
+
+===Audio===
+Tools for recording and editing audio assets for games work. Contributes to Development.
+
+||Name || Details || URL ||
+||Ardour ||Free audio workstation for recording, editing and mixing multi-track audio||http://ardour.org/||
+||Audacity ||Open-source audio recorder and editor for Windows, Mac OS X, and Linux||http://audacity.sourceforge.net||
