@@ -1,5 +1,7 @@
 #summary Developer tools to review for game development.
 #sidebar Navigation
+* Modules
+ * [ToolsBreakDown#2D 2D]
 
 = Introduction =
 
@@ -7,7 +9,7 @@ This article addresses the different tools required to develop the final product
 <br />
 <br />
 
-= Overview of the pipeline =
+= Overview of the pipeline and its modules =
 
 <p>Each of the tools listed in this section have already been determined where they exist in the game-development pipeline by 3D World. The tools are introduced by module category, or which part of the pipeline they belong to. Associations to other modules in the pipeline are identified in the subheading of each module.</p>
 <br />
