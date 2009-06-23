@@ -15,7 +15,7 @@ This article addresses the different tools required to develop the final product
 <br />
 <br />
 
-===2D===
+==2D==
 Tools for concept art and generating tiled textures and normal maps. Contributes to modelling/animation and development
 
 ||Name || Details || URL ||
@@ -28,7 +28,7 @@ Tools for concept art and generating tiled textures and normal maps. Contributes
 <br />
 <br />
 
-===Modelling/animation===
+==Modelling/animation==
 Tools for in-game and cinematic model creation and animatino. Contributes to Rendering and Development
 
 ||Name || Details || URL ||
