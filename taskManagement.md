@@ -1,0 +1,52 @@
+# Tone #
+
+  * (dark diablo --> goofy dofus)
+
+# Monsters #
+
+  * Types (elements)
+  * Types (symbiotic, fighter, defender, etc.)
+  * Leveling
+  * How to Capture
+  * How to determine Star value
+  * How to determine elemental point value
+  * How to calculate base attribute changes (str, hp,elemental atrb, etc) with levels
+
+# Masters #
+
+  * Roles (can the master attack?)
+  * Spells / abilities
+  * Leveling
+
+# Interface #
+
+  * How do you travel (is your party always out while you are traveling or only in battle?)
+  * Battling (in the world or alternate screen?)
+  * Menu layout
+
+# World #
+
+  * Lore
+  * Terrain
+  * Dungeons
+  * Boss design
+  * Cities and towns
+
+# Social #
+
+  * Guilds
+  * Chat
+  * Player Government (an idea, probably not possible )
+
+# Quests #
+
+  * Special items
+  * Unique monsters
+  * Rare treasures
+
+# Items #
+
+  * Support (potions, elixers, etc)
+  * Weapons
+  * Armor
+  * Vanity

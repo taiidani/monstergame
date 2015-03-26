@@ -1,0 +1,59 @@
+# Introduction #
+This is the lore of our world.  It encompasses how the world and creatures in it were created, and explain the natural order.
+The personalities explored here are those of the Gods and major characters including but not limited to the appointed demigods.
+
+
+## The general order ##
+
+The world itself is occupied by two dominant forces
+  * The sentient, dominant species of elves, which have several varying races
+  * Creatures who derive their power from the natural world
+
+On a plane of the world exists the world of Gods.  Currently, their are only two known Gods to the elves, which will be referred to as the **major Gods**
+  * The mother of war, who advocates force
+  * The father of peace, who believes in the power of coexistence
+
+They share an ancient grudge because of their opposing ideals.  Despite this truth, the two share a love for existence and the world itself, and actually gave birth to the race of elves to reign over the planet.
+
+As time passed, the single race of elf spread and changed into four distinct groups
+  * A physically large and strong group, with red and brown skin tones.  They are gifted with greater strength.
+  * A tall, lanky group, usually with long hair.  Their skin appears to be made of silver and gold.  They are typically more intelligent.
+  * A short, skinny group, often seen as mischievous.  Their skin is gray, blue, and even purple.  They are the most agile of the elves.
+  * The typical elf, green in color and average in stature.  They are the heartiest of the elves.
+
+Elves are the decedents of Gods, their literal children.  Because of this bond, they naturally hold the power to dominate the creatures of the world.  Because both of the major Gods are equally responsible for the creation of elf, both are worshiped.  It is common practice however, to follow the path of one.  As a reward for your loyalty, each major God grants unique elemental spells.  This choice **is mandatory** for all elves.
+
+Because elves are related to the Gods, they can receive further gifts from the Gods.  They can be given the gift of eternal life, where they can live forever, provided that they stay loyal and are not killed.  To be granted this gift is a form of recognition, and raises that elf to a higher status, that of a **demigod**.
+
+Demigods serve as the presence of the major Gods on this plane of existence.  This is why the worship and pledging of loyalty to these figures is also common, **but not mandatory**.  The demigods also offer a gift in return for your loyalty.  This gift reflects the demigod's nature and personality more than their belief.
+
+It was agreed by the major Gods that they may bestow the gift of immortal life to no more than three followers each.  This means that the word can only have six immortals anointed by the major Gods at any one time.
+
+### The hierarchy laid out ###
+  * Major Gods
+  * Demigods
+  * Elf
+  * Beast
+
+## Starting your life ##
+
+You start your life as every elf does, with his race, in their village just outside of the Greater Temple.  The Greater Temple is actually a city which contains two massive shrines, each dedicated to one of the major Gods.
+
+Your first job and entrance to adulthood is the taming and capture of your first creature.  After suitable practice, you are to head to the training ground within the Greater Temple.  Here you will train until you learn the ways of fighting as elf and beast.  At this time you will be required to chose which major God to worship.  This choice is permanent, and will determine not only how the world sees you, how your creatures view you, but also your playing style.
+
+After you make your choice, it is your responsibility to train, explore, and a grow in strength.  This is also the time to chose a guild.  It will be at your discretion when and if to swear loyalty to a demigod.  This choice will grant a small bonus.  You may also change your mind about this choice, and swear allegiance to a different demigod, as long as he follows the same major God as you.
+
+After this, it you are free to explore the world, collecting treasures, raising monsters, increasing your power and level.
+
+## Tales of Creation ##
+
+## Tales of the two paths ##
+
+## The creation of the demigods ##
+
+### Reigning demigod 1 ###
+### Reigning demigod 2 ###
+### Reigning demigod 3 ###
+### Reigning demigod 4 ###
+### Reigning demigod 5 ###
+### Reigning demigod 6 ###

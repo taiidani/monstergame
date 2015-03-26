@@ -1,0 +1,43 @@
+**Abstract**
+
+The project will be to create a MMORPG that is capable of being run on many platforms. The game is based on the concept of 'Masters' controlling 'Monsters' where the Masters are controllable by the player and the Monsters fight for the Masters and give them specific benefits.
+
+**Masters**
+
+Masters are the player avatars in the game world. They are able to wield weapons and cast spells, but the main focus of their offensive and defensive power is the Monsters that they control.
+
+All playable characters are a race of elf.  So far their are four of them.
+  * A physically large and strong group, with red and brown skin tones.  They are gifted with greater strength.
+  * A tall, lanky group, usually with long hair.  Their skin appears to be made of silver and gold.  They are typically more intelligent.
+  * A short, skinny group, often seen as mischievous.  Their skin is gray, blue, and even purple.  They are the most agile of the elves.
+  * The typical elf, green in color and average in stature.  They are the heartiest of the elves.
+
+**Monsters**
+
+Monsters are the soldiers in the game. They fight each other according to what the Masters tell them. There are multiple types of Monsters and have a broad range of sizes. Monsters will also retroactively give status boosts to the Masters controlling them. The different types of Monsters will be analogous to elements; they will have defined strengths and weaknesses that play off of each other, forcing the Master to apply strategy in their Monster choice.
+
+**Variety of Monsters**
+
+In this world, monsters can be divided by their elemental types.  Beyond that, a Monster can also be further divided into standard and symbiotic creatures.
+  * Standard creatures are those that move by their own means and participate in combat directly, taking and giving out damage.
+  * Symbiotic creatures function as living equipment, attaching themselves to the caster and providing substantial buffs of direct involvement.
+
+**Interaction between Monster and Master**
+
+Master's have the ability to command Monsters to fight and work together to defeat wild monsters, other Master's, and other foes.
+  * Masters' greatest source of direct strength are elemental points received from monsters.  Based on the amount points of a certain element a trainer has, the more spells that Master has access to.  The advantage of having a team heavily based on fire Monsters is that the Master has a greater amount of fire points, giving access to many strong spells of the fire variety.  This countered by the fact that because his team is comprised of mostly one element, they share a common weakness.
+Monsters under the control of a Master have the buffs and advantages of the Master, as well as its own talents and abilities.  Monsters also gain the advantage of fighting with other Monsters.
+
+**Leveling**
+
+Levels are determined through a numbering system starting at 1 and increasing to the current level cap.
+Both Masters and Monsters level up through fighting in the world.  Creatures level far faster than Masters, and have a far greater level cap.  As Masters level up, their skills as a trainer increase.  As the Master's level increases, the Monsters under his control level more quickly.
+As Monsters level, their power increases as well as the pool of spells they themselves have access to.  Monsters also gain more elemental points that they give to the Master.
+
+**Customization**
+
+The unique identity of the Master comes from his or her decision of who makes up their team of Monsters.
+
+**Capture of Additional Monsters**
+
+To capture an additional Monster a show of force is required.  This is a single, direct attack on the wild, untamed Monster.  If the show of strength is great enough, the wild Monster becomes loyal to the Master and becomes tamable and controllable.  If this show of force is too weak however, the wild Monster will strike back with vengeance.

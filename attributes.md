@@ -1,0 +1,69 @@
+# Attributes #
+This page deals with the attributes which determine the raw stats of the creatures and players in game.  These are the stats that raise as levels increase, making fighters more powerful and their attacks stronger.
+
+## Attribute List ##
+**Health**
+
+This stat determines the actual total of hit points a player has.  When this number reaches zero, the player faints/ dies.
+
+> This is one of two bars seen on the screen, because it is so key to know exactly how much health you have mid-combat.
+
+**Energy**
+
+Because the game utilizes attacks that are both physical and energy based in nature, having separate bars for both kinds of attacks would be visually displeasing and confusing.  Instead, we will have all attacks be drawn from a single pool, know as the energy bar.
+
+The idea behind this is that any kind of attack takes a certain amount of effort on the part of the attacker.  This exertion is universal, so this one bar can be applied to all players and even creatures.  The end result of the attack, as in how much damage is done, is dependent on their strength and special stats.
+
+When the energy bar is at zero, the player is unable to attack.  Also, if their is not enough energy to start a specific attack, they are unable to cast that attack.
+
+> This amount is the second bar on the screen displayed at all times, because the status of this bar is equally important.
+
+**Strength**
+
+As this stat increases, the physical damage that attack does is directly increased.
+
+Physical attacks include but are not limited to:
+  * punches
+  * kicks
+  * tackles
+  * claw swipes
+  * bites
+
+**Special**
+
+As this stat increases, the special, or elemental damage that attack does is directly increased.
+
+Special attacks include but are not limited to:
+  * beams
+  * cannons
+  * summoned embodiment of elements, like root from the ground, a geyser, or lightning from above.
+  * any object not propelled physically by the caster
+
+**Agility**
+
+As this stat increases, the dodge and critical hit ratings of the player rise as well.
+
+## The difference in monsters and elves stats ##
+
+All stats do the same thing for both creature and elf, but how they gain and keep stats is very different.
+
+**Elves**
+
+Elves gain their stats as they level in a model predetermined by the creators.  In other words, every elf will be the same at level 10 in regards to their base stats.
+
+Elves can raise their stats in a unique way by what equipment they chose to wear.
+
+Elves do not receive a boost in their base stats from their creatures.
+
+**Monsters**
+
+Monsters gain stat points that are allocated by either the game or the player controlling it if there is one.
+
+A level 1 monster raised by a master will have its points gained while leveling allocated by their master.
+
+A level 30 monster in the wild will have its point allocated by the game.  If that same monster is then caught, all points from future levels will be allocated by their master.
+
+This means that monsters raised from "birth" will have an advantage in comparison to monsters caught at a very high level.  For this system to work, there will need to be a breeding job available so that every monster can be raised from level 1.  This also allows replay to be both necessary and fun.
+
+### Conclusion ###
+This system is very simple, only four values, but covers many avenues.

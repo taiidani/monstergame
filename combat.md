@@ -1,0 +1,61 @@
+# Introduction #
+
+This page lists how teams are managed, how attacks work, how victory is achieved, and the result of player death.  This page focuses more on players fighting outside of duels.  For more information on duels, please got to the PvP wiki page.
+
+
+## Team size ##
+
+Each elf or master has a set amount of star points. An elf can control any type and number of creatures that he or she wishes, as long as the creature team's combined star value is equal or less than the elf's star points.
+
+## Attacks ##
+
+All attacks in the game consist of two parts, a physical based, and a element base.
+
+Elemental base damage is subject to the target's elemental resistances and weaknesses.  Physical damage is exempt from this.
+
+The physical part of spell damage is increased by the caster's strength, and the elemental damage is increased by the caster's special stat.
+
+To illustrate this, let us look at two very different attacks, **boulder throw** and **flare cannon**.
+
+  * Boulder throw consists of the creature pulling a large rock from the ground and throw it at the opponent.  This is an earth type spell.
+
+The spell's damage is read as 30-35 physical, and 10-12 elemental.
+
+Because this attack is a solid object that is thrown, it is largely dependent on the casters strength.  The attack is an earth spell, so there is some elemental damage.
+
+  * Flare cannon consists of the creature spitting a stream of fire.
+
+The spell's damage reads as 5-8 physical, and 25-45 elemental damage.
+
+The spell is a raging pillar of fire, primarily raw energy, with some physical force behind it.
+
+## Gambits ##
+
+Creatures fight using their gambits.  (see glossary for further detail)
+
+## Death ##
+
+Damage from attacks lower health.  When a creature's or elf's health reaches zero, they die.
+
+### Creature death ###
+
+When a creature dies, they are removed from combat.  They can no longer fight or aid in combat.  They also stop providing an elemental bonus to their master.
+
+They can be revived thorough items or spells.
+
+### Elf death ###
+
+When an elf dies, it is up to their creatures to continue the fight, only following their gambits.
+
+Should the creatures win the fight, the elf will resurrect with 1hp.
+
+### Elf and creature death ###
+
+If the elf and all creatures should die, it is counted as a loss.  The player will have to be resurrected.  Once the elf is resurrected, he/she will have to resurrect their creature team.
+
+It is undetermined if their will be any further repercussions from death in the wild, including but not limited to:
+  * Loss of items
+  * Loss of money
+  * Loss of experience
+  * Breaking/ wearing down of equipment
+  * Creatures running away

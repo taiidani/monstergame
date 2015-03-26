@@ -1,0 +1,112 @@
+| **Element Chart** |
+|:------------------|
+| Chart A | Fir | Wat | Poi | Pla | Win | Ice | Ele | Ear |
+| Fire |   | X |   | O |   | O |   | X |
+| Water | O |   | O | X |   |   |   | O |
+| Poison |   |   |   | O |   |   |   | X |
+| Plant | X | O | X |   | X |   |   | O |
+| Wind |   |   |   | X |   |   |   | X |
+| Ice |   |   |   | O |   |   |   | O |
+| Electricity |   | O |   |   |   |   |   | X |
+| Earth | O |   |   |   | X | O | O |   |
+
+  * The column going up to down represents the attacker
+  * The row going across shows the element of the creature attacked
+  1. X means the attack is resisted
+  1. O means the attack is extra effective
+
+### The neutral element is not effective or resisted by anything ###
+  * This may be put under consideration
+
+## Analysis of Chart A: ##
+**Fire**
+> Effective against 2 types, resisted by 2.  Is weak to 2 types, resists 2.  Fire is the perfect counter to plants, and also takes out ice effectively.  Fire couples well with earth and water.
+
+**Water**
+> Effective against 3 types, resisted by 1.  Is weak to 2 types, resists 1.  Fears electricity and plants, and only has one resistance.  Its merit as an attacker is greater than its ability to defend.
+
+**Poison**
+> Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 1.  It is not as offensive as the others are, but very universal.  Poison can enter a fight, and once earth and water are gone, it has nothing to fear.  A solid attacking type because it so little resists it.
+
+**Plant**
+> Effective against 2 types, resisted by 3.  Is weak to 3 types, resists 2.  It hits water hard as well as earth.  Plant resists water and wind, making it a counter for two of the elements that will probably be overused.  Plants hurt the very solid water and earth types, and that is its greatest strength.
+
+**Wind**
+> Effective against 0 types, resisted by 2.  Is weak to 0 types, resists 2.  It is not offensively that scary, but makes that up from the fact that it fears nothing.  Serves as the most useful defense because it has no weakness whatsoever.
+
+**Ice**
+> Effective against 2 types, resisted by 0.  Is weak to 2 types, resists 0.  Ice is effective against both of the most defensive elements, earth and plant, but also fears earth at the same time.  Ice is a great element to attack with, but a lackluster defender.  It can hurt one of its weaknesses though, so it is not without hope.
+
+**Electricity**
+> Effective against 1 types, resisted by 1.  Is weak to 1 types, resists 0.  Electricity only has one fear, earth, and takes down water.  Electricity hits everything pretty well, except for its one weakness.
+
+**Earth**
+> Effective against 3 types, resisted by 1.  Is weak to 3 types, resists 4.  Earth is very versatile, but holds many fears.  The odds are on earths side that it will resist the attack, but it is weak to water, which is another strong contender.
+
+| Chart A1 | Effective | Resisted | Resists | Vulnerable |
+|:---------|:----------|:---------|:--------|:-----------|
+| Fire | 2 | 2 | 2 | 2 |
+| Water | 3 | 1 | 1 | 2 |
+| Poison | 1 | 1 | 1 | 1 |
+| Plant | 2 | 3 | 2 | 3 |
+| Wind | 0 | 2 | 2 | 0 |
+| Ice | 2 | 0 | 0 | 2 |
+| Electricity | 1 | 1 | 0 | 1 |
+| Earth | 3 | 1 | 4 | 3 |
+
+### Conclusion: ###
+Everything seems balanced at this point.  I am not so sure why wind is resisted by plants anymore, as I cannot think of any previous time in games where plants actually resist wind.  I say this realizing I probably was in favor of plants resisting wind.
+I do feel like things are finally closer to being balanced.
+
+---
+
+> The following chart shows the usefulness of each element offensively, defensively, and overall.
+
+| New B | Offense Value | Defense Value | Overall |
+|:------|:--------------|:--------------|:--------|
+| Fire | 0 | 0 | 0 |
+| Water | 2 | -1 | +1 |
+| Poison | 0 | 0 | 0 |
+| Plant | -1 | -1 | -2 |
+| Wind | -2 | 2 | -0 |
+| Ice | 2 | -2 | 0 |
+| Electricity | 0 | 0 | -1 |
+| Earth | 2 | 1 | +3 |
+
+  * Offense Value is determined by subtracting the number of elements that resist the element from the number of elements that are weak to that element.
+> Example would be water is effective against **3** types, and resisted by **1**, giving you a remainder of **+2**.
+  * Defense Value is determined by subtracting the number of elements that type is vulnerable to from the number of elements it resists.
+> Example would be water resists **1** elements, but is weak to **2**, giving you a remainder of **-1**.
+  * Overall is determined by adding Offensive Value and Defensive Value together.
+
+## Analysis of Chart B ##
+
+  * Earth is the only element to have an amount greater than 0 in **both** columns, making it a very powerful choice for offense and defense.
+  * Water is the only other element that winds up with a positive, but it and earth both fear many things, giving them something to worry about.
+  * Wind has the highest resistance value because it has no weakness still, but the element feels just about right.
+  * Plants seemed to have taken a hit this time, but plants have always taken that seat in games.
+
+
+---
+
+
+> I was messing around with numbers and I figured out a new chart that shows something we did not considered before: the solid advantage and disadvantage of resisting the element you are super effective against.
+  * Example would be water is effective against fire, and resistant to fire at the same time.
+> I call this instance the pwn/noob factor.
+
+| DTATTM | Pwn | Noob |
+|:-------|:----|:-----|
+| Fire | 1 | 2 |
+| Water | 1 | 1 |
+| Poison | 1 | 0 |
+| Plant | 1 | 2 |
+| Wind | 0 | 0 |
+| Ice | 0 | 0 |
+| Electricity | 0 | 1 |
+| Earth | 2 | 0 |
+
+  * DTATTM David Thinks About This Too Much
+> This means that the elements with no noob points are not at the greatest disadvantage possible, and those with pwn points rule the battlefield when this occurs.  I almost want to say that earth needs something to give it a noob point, but there is a reason that earth is everywhere.
+
+> The very fact that I cannot for the life of me come up with a perfect system of checks and balances based on two elements speaks very highly of our chart.  I'm still working on three or more elements, but I keep coming up with 2 out 3 of them sharing a weakness.
+  * **THAT IS AWESOME**

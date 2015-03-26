@@ -1,0 +1,37 @@
+# Introduction #
+
+This section lists the details of PvP.
+  * Who can declare it
+  * Who you can declare PvP against
+  * Where you can declare PvP
+  * What are the results of PvP
+  * What do guilds have to do with anything
+
+# PvP? #
+PvP or player versus player is one player attacking another player.
+These can either be friendly duels, or fights with the intent to defeat and kill.
+The choices/possibilities of people to attack largely depend on your guild.
+
+# The guild system #
+Players are encouraged to join and form guilds.  These guilds are not based off the choice in major and minor Gods, although they can be.  These organizations are player created and player maintained.
+
+Guilds can sign and create treaties, forming larger networks out of smaller groups.
+
+## The "Who"s of PvP ##
+Any player may chose to declare PvP at any player as long as they exist outside of their guild or their guild's allies.
+
+This means that a player can attack another player at any time, with no warning, provided the above criteria is met.
+
+Players that share the same guild and/or ally can only compete in duels.
+
+## The results of PvP ##
+After attacking a player, aka engaging in PvP, either someone loses or one or both run away from battle.
+
+In the result of a loss, the player dies in the same fashion that they would if they lost to a wild monster/NPC.  They will be forced to revive, and face all the XP/armor/monetary penalties of death.
+
+## The results of a duel ##
+
+When a player loses a duel, his monsters and himself are reset to one HP.  Other than a hit to their pride, no long term harm is done.  These are intended to be friendly matches of skill.
+
+### Extra ###
+There exists no language barriers between religions or races.  People need a reason to want to attack someone.  Insults do the trick nicely.

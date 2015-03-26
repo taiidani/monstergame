@@ -1,0 +1,188 @@
+Table of Contents 
+
+---
+
+<br />
+<br />
+
+# Introduction #
+
+This article addresses the different tools required to develop the final product. A procedure for testing each tool will come later. The goal is to find and agree upon a tool-set for developing the game.
+<br />
+<br />
+
+# Overview of the pipeline and its modules #
+
+<p>Each of the tools listed in this section have already been determined where they exist in the game-development pipeline by 3D World. The tools are introduced by module category, or which part of the pipeline they belong to. Associations to other modules in the pipeline are identified in the subheading of each module.</p>
+<br />
+<br />
+
+## 2D ##
+Tools for concept art and generating tiled textures and normal maps. Contributes to modelling/animation and development
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|GIMP |GNU raster graphics tool used by a number of commercial teams|www.gimp.org|
+|Krita |KOffice painting/image-editing tool|www.koffice.org/krita|
+|Inkscape |A GPL vector graphics editor in the manner of Illutrator or CorelDRAW|www.inkscape.org|
+|Resynthesizer |GIMP textur-synthesis plug-in: aids creation of seamlessly tileable textures|http://tinyurl.om/4hsedo|
+|xNormal |Free tool for generating normal, AO, displacement and relief maps|www.xnormal.net|
+
+<br />
+<br />
+
+## Modelling/animation ##
+Tools for in-game and cinematic model creation and animatino. Contributes to Rendering and Development
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Blender |Highly regarded open-source 3D application. Includes specific games functionality|www.blender.org|
+|trueSpace 3.2 |Early version of the 3D modeling and animation tool:now a free download|http://tinyurl.com/46xgaw|
+|DAZ Studio |DAZ Productions' free character posing and animation tool|www.daz3d.com/i.x/software/studio|
+|Wings3D |Open-source (BSD) subdivision surface-based modeling tool|www.wings3d.com|
+|MarbleCLAY |Free japanese poly-modeling tool previously known as Etude3D|http://tinyurl.com/3jeuk|
+|Cal3D |Skeletal character animatin library originally designed for WorldForge|http://home.gna.org/cal3d|
+|QuArK |Map, model, sound, texture and asses editor, primarily for the idTech engines|http://tinyurl.com/3o6p37|
+|Deled 3D |3D modeling and world building tool, offering a free _lite_ edition|www.delgine.com|
+
+<br />
+<br />
+
+## Rendering ##
+Tools for pre-rendered cinematics, trailers and promotional material. Contributes to Development
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Aqsis |RenderMan-compliant renderer. Mainly GPL-licenced, with parts under LGPL|http://aqsis.org|
+|Pixie |Photorealistic RenderMan-compliant renderer, also distributed under LGPL|www.renderpixie.com|
+|POV-Ray |Free, modifiable raytracing program for Windows, Linux, and Mac OS X|www.provray.org|
+|YafRay |Powerful open-source (LGPL) raytracer, with strong _Blender_ support|www.yafray.org|
+|DrQueue |Open-source distributed render-fram manager, as used by ILM|http://drqueu.org/cwebsite|
+
+
+<br />
+<br />
+
+## Development ##
+Open-source development environments, tools, and libraries. Contributes to the final project.
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Anjuta |Open-source c/c++ IDE, including project management and debugger|http://anjuta.sourceforge.net/|
+|Eclipse |Primarily Java-based development environment|www.eclipse.org|
+|KDevelop |Free development environment for UNIX-like OSes. No built-in compiler|www.kdevelop.org|
+|MonoDevelop |Popular fork of SharpDevelop, itself a free IDE alternative to Visual Studio|www.monodevelop.com|
+|Turbo C++ Explorer |An activation key is required, but the compiler and IDE is free to use|www.turboexplorer.com|
+|Visual Studio Express Editions |A range of free Microsoft IDEs, including those for C+++ and C#|www.microsoft.com/express|
+|Nocturnal |Insomniac Games' free collection of common helper utilites for PS3|http://nocturnal.insomniacgames.com|
+|XNA Game Studio |Framework and collection of libraries for game creation. Free for Windows|http://creators.xna.com/|
+
+<br />
+<br />
+
+## Project management ##
+Tools for version control of code. See also:www.opensourcecms.com. Contributes to Development.
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|CVS |Popular open-source version-control tool for open-source code.|www.nongnu.org/cvs|
+|Subversion |Version-control system intended as a successor to CVS|http://subversion.tigris.org/|
+|Verse |Network protocol for real-time data sharing between apps: optimized for 3D|http://verse.blender.org|
+
+<br />
+<br />
+
+## Audio ##
+Tools for recording and editing audio assets for games work. Contributes to Development.
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Ardour |Free audio workstation for recording, editing and mixing multi-track audio|http://ardour.org/|
+|Audacity |Open-source audio recorder and editor for Windows, Mac OS X, and Linux|http://audacity.sourceforge.net|
+
+<br />
+<br />
+
+## Coding ##
+Scripting languages, compilers, interfaces and other coding tools. Contributes to Development.
+
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|GCC |The GNU Compiler collection. Front ends available for C, C++, etc|http://gcc.gnu.org|
+|Python |Language widely used for libraries, scripting, and so on. Open source|www.python.org|
+|Lua |Lightweight scripting language. Distributed uner the MIT licence|www.lua.org|
+|Ruby |Object-orientated language inspired by _Perl_ and _Smalltalk_|www.ruby-lang.org|
+|GameMonkey Script |C-like open-source embedded scripting language for games work|www.somedude.net/gamemonkey|
+|Pyglet|Programming interface for games development with _Python_|www.pyglet.org|
+
+<br />
+<br />
+
+# Game engines and other resources #
+Instead of reinventing the wheel, there are several engines we could leverage to handle most of the processes required for our game. Below is a list of engines ranging from 3D to Networking.
+<br />
+<br />
+
+## 3D engines ##
+Ready-made alternatives to the most demanding programming challenge.
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Ogre |Hugely popular LPGL engine, as used in several open-source engines and commercial titles|www.oger3d.org|
+|Crystal Space |_Blender_-friendly LGPL engine. Offers a more complete game dev environment than _Ogre_|www.crystalspace3d.org|
+|idTech 3|Solid technology, previously known as the _Quake 3_ engine; now available under GPL|http://tinyurl.com/4dzsx5|
+|Irrlicht |Portable cross-platform zlib engine. Uses Direct3D, OpenGL and its own software renderer|http://irrlicht.sourceforge.net|
+|Retribution |GPL first-person shooter engine with level and model editors, designed for Windows|http://tinyurl.com/3vf2po|
+|Sauerbraten/Cube 2|Single/multiplayer first-person shooter engine, offered under the zlib licence|http://sauerbraten.org|
+
+<br />
+<br />
+
+## Physics ##
+Range of free dynamics, collisions and particle tools.
+
+|Name | Details | URL |
+|:----|:--------|:----|
+|Havok Complete| Now free for non-commercial use on PC; Intel sponsors use in approved commercial projects|www.havok.com|
+|Bullet |Acclaimed zlib real-time physics system, created by an ex-_Havok_ coder|www.bulletphysics.com|
+|Open Dynamics Engine |BSD/LGPL rigid-body dynamics system, used in titles like _S.T.A.L.K.E.R._|www.ode.org|
+|Tokamak |Basic real-time physics engine, released under the BSD licence|www.tokamakphysics.com|
+|PhysX|Free gaming physics SDK from Nvidia, which makes use of GPU technology|http://tinyurl.com/3kszuy|
+|Particle Universe |Free particle system plug-in for _Ogre_, available under the LGPL licence|www.fxpression.com|
+
+
+
+---
+
+still to go:
+Soun/Movie
+DUMB
+Audiere
+MikMod
+OpenAL
+SDL\_mixer
+HawkVoice
+ffmpeg
+
+Game
+Delta 3D
+Panda 3D
+Monster Engine
+Yake 0.3.0
+Europa Engine
+
+Game Libraries
+OpenGL
+DirectX
+FEAR
+AntTweakBar
+Guichan
+Navi
+LibUFO
+SDL
+
+Networking
+WorldForge
+OpenNel
+HawkNL
